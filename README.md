@@ -1,4 +1,7 @@
-# RP Pedidos — downloads
+<p align="center"><img src="logo.png" width="140" alt="RP Pedidos"></p>
+
+<h1 align="center">RP Pedidos</h1>
+<p align="center"><a href="https://github.com/andrewmautone/rp-hub-releases/releases/latest"><b>⬇ Baixar a última versão</b></a></p>
 
 Hub de pedidos do **Roleplay Burger** para Windows: junta iFood, 99, Keeta e o site num quadro só e imprime a comanda na impressora térmica.
 
